@@ -1,0 +1,7 @@
+https://github.com/learn-co-curriculum/dsc-introduction-to-object-orientation.git
+https://github.com/learn-co-students/dsc-classes-and-instances-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-classes-and-instances-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-instance-methods-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-instance-methods-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-instance-variables-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-oop-recap-v2-1-onl01-dtsc-ft-030220.git

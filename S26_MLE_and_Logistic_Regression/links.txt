@@ -1,0 +1,8 @@
+https://github.com/learn-co-students/dsc-mle-logistic-reg-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-mle-review-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-mle-logistic-regression-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-gradient-descent-review-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-gradient-descent-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-coding-logistic-regression-from-scratch-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-logistic-regression-model-comparisons-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-mle-log-reg-recap-onl01-dtsc-ft-030220

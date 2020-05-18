@@ -1,0 +1,14 @@
+https://github.com/learn-co-students/dsc-logistic-regression-intro-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-intro-to-supervised-learning-v2-1-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-linear-to-logistic-regression-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-logistic-regression-in-scikit-learn-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-logistic-regression-in-scikit-learn-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-confusion-matrices-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-visualizing-confusion-matrices-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-evaluation-metrics-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-evaluating-logistic-regression-models-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-roc-curves-and-auc-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-roc-curves-and-auc-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-class-imbalance-problems-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-class-imbalance-problems-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-logistic-regression-section-recap-onl01-dtsc-ft-030220.git
