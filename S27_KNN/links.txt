@@ -1,9 +1,0 @@
-https://github.com/learn-co-students/dsc-knn-intro-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-distance-metrics-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-distance-metrics-lab-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-k-nearest-neighbors-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-k-nearest-neighbors-lab-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-finding-the-best-value-for-k-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-knn-with-scikit-learn-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-knn-with-scikit-learn-lab-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-knn-recap-onl01-dtsc-ft-030220

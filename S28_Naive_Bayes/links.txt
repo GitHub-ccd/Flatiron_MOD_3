@@ -1,7 +1,0 @@
-https://github.com/learn-co-students/dsc-bayesian-classification-intro-v2-1-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-classifiers-with-bayes-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-gaussian-naive-bayes-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-gaussian-naive-bayes-lab-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-document-classification-with-naive-bayes-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-document-classification-with-naive-bayes-lab-onl01-dtsc-ft-030220
-https://github.com/learn-co-students/dsc-bayesian-classification-recap-v2-1-onl01-dtsc-ft-030220
