@@ -1,0 +1,9 @@
+https://github.com/learn-co-students/dsc-regularization-intro-v2-1-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-ridge-and-lasso-regression-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-ridge-and-lasso-regression-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-feature-and-model-selection-aic-and-bic-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-feature-selection-methods-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-extensions-to-linear-models-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-generating-data-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-generating-data-lab-onl01-dtsc-ft-030220.git
+https://github.com/learn-co-students/dsc-regularization-recap-v2-1-onl01-dtsc-ft-030220.git
