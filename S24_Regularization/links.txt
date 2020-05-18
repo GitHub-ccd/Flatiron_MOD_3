@@ -7,3 +7,4 @@ https://github.com/learn-co-students/dsc-extensions-to-linear-models-lab-onl01-d
 https://github.com/learn-co-students/dsc-generating-data-onl01-dtsc-ft-030220.git
 https://github.com/learn-co-students/dsc-generating-data-lab-onl01-dtsc-ft-030220.git
 https://github.com/learn-co-students/dsc-regularization-recap-v2-1-onl01-dtsc-ft-030220.git
+

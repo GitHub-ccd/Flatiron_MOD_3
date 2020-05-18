@@ -4,7 +4,7 @@
 ## Introduction
 
 Previously, you've seen how you can select ways of assessing your model fit metrics like MSE, SSE, and $R^2$. These values almost always improve when adding more variables, so if you only use these metrics to determine the optimal features of your model, it is highly likely that you will overfit the model to your data. In this lesson you'll be introduced to two new measures: AIC and BIC, which give you a comprehensive measure of model performace taking into account the additional variables. 
-
+"this is also a test" 
 
 ## Objectives
 
