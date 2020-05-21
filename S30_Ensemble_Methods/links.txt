@@ -1,0 +1,11 @@
+https://github.com/learn-co-students/dsc-ensemble-methods-section-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-ensemble-methods-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-random-forests-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-tree-ensembles-random-forests-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-gridsearchcv-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-gridsearchcv-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-gradient-boosting-and-weak-learners-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-gradient-boosting-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-xgboost-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/ds-xgboost-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-ensemble-methods-section-recap-onl01-dtsc-ft-030220
