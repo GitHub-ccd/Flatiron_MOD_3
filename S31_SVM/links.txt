@@ -1,0 +1,7 @@
+https://github.com/learn-co-students/dsc-svm-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-introduction-to-support-vector-machines-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-building-an-svm-from-scratch-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-building-an-svm-using-scikit-learn-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-the-kernel-trick-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-kernels-in-scikit-learn-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-svm-recap-onl01-dtsc-ft-030220
